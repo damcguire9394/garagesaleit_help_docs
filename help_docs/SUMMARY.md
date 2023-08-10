@@ -4,8 +4,8 @@
 
 ## Overview
 
-* [💡 The GarageSaleIt Marketplace](overview/the-garagesaleit-marketplace.md)
-* [✨ Our CryptoCurrency GSI-Coin](overview/our-cryptocurrency-gsi-coin.md)
+* [💡 The GarageSaleIt Marketplace](overview/what-we-do.md)
+* [✨ Our CryptoCurrency GSI-Coin](overview/our-features.md)
 
 ## Project Overview
 

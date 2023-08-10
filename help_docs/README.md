@@ -32,12 +32,12 @@ Here are a couple of example overviews from products with really great docs:
 
 ## Project Overview
 
-{% content-ref url="overview/the-garagesaleit-marketplace.md" %}
-[the-garagesaleit-marketplace.md](overview/the-garagesaleit-marketplace.md)
+{% content-ref url="overview/what-we-do.md" %}
+[what-we-do.md](overview/what-we-do.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-cryptocurrency-gsi-coin.md" %}
-[our-cryptocurrency-gsi-coin.md](overview/our-cryptocurrency-gsi-coin.md)
+{% content-ref url="overview/our-features.md" %}
+[our-features.md](overview/our-features.md)
 {% endcontent-ref %}
 
 ## Get Started
