@@ -30,7 +30,7 @@ Here are a couple of example overviews from products with really great docs:
 >
 > — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
 
-## Project Overview
+## Overview
 
 {% content-ref url="overview/what-we-do.md" %}
 [what-we-do.md](overview/what-we-do.md)
@@ -40,7 +40,7 @@ Here are a couple of example overviews from products with really great docs:
 [our-features.md](overview/our-features.md)
 {% endcontent-ref %}
 
-## Get Started
+## How to Buy a Master Node
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
