@@ -30,14 +30,14 @@ Here are a couple of example overviews from products with really great docs:
 >
 > — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
 
-## Quick links
+## Project Overview
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+{% content-ref url="overview/the-garagesaleit-marketplace.md" %}
+[the-garagesaleit-marketplace.md](overview/the-garagesaleit-marketplace.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="overview/our-cryptocurrency-gsi-coin.md" %}
+[our-cryptocurrency-gsi-coin.md](overview/our-cryptocurrency-gsi-coin.md)
 {% endcontent-ref %}
 
 ## Get Started
